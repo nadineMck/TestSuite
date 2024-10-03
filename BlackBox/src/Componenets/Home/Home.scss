@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    font-family: sans-serif;
+}
+.Wrapper {
+    background-color: #222831;
+    width: 100vw;
+    min-height: 200vh;
+    position: static;
+    overflow-y: hidden;
+
+}
+
+.table{
+    width: 58%;
+    height: 80%;
+    background-color: #31363F;
+    margin-left: 8%;
+    border-radius: 2rem;
+    margin-top: 6%;
+    color: #EEEEEE;
+    overflow: hidden;
+    padding-left:3%;
+    padding-top: 2%;
+    box-shadow: 0 0 15px rgba(118, 171, 174, 1);
+}
+.OutputWrapper{
+    display: flex;
+    width: 80%;
+    height: 90vh;
+    justify-content: center;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    overflow-x:visible;
+
+
+}
